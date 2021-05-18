@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Calendar_2021/static/css/main.ad790370.chunk.css",
+    "main.js": "/Calendar_2021/static/js/main.fac27838.chunk.js",
+    "main.js.map": "/Calendar_2021/static/js/main.fac27838.chunk.js.map",
+    "runtime-main.js": "/Calendar_2021/static/js/runtime-main.b39e63db.js",
+    "runtime-main.js.map": "/Calendar_2021/static/js/runtime-main.b39e63db.js.map",
+    "static/js/2.fef92d3b.chunk.js": "/Calendar_2021/static/js/2.fef92d3b.chunk.js",
+    "static/js/2.fef92d3b.chunk.js.map": "/Calendar_2021/static/js/2.fef92d3b.chunk.js.map",
+    "index.html": "/Calendar_2021/index.html",
+    "static/css/main.ad790370.chunk.css.map": "/Calendar_2021/static/css/main.ad790370.chunk.css.map",
+    "static/js/2.fef92d3b.chunk.js.LICENSE.txt": "/Calendar_2021/static/js/2.fef92d3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b39e63db.js",
+    "static/js/2.fef92d3b.chunk.js",
+    "static/css/main.ad790370.chunk.css",
+    "static/js/main.fac27838.chunk.js"
+  ]
+}
